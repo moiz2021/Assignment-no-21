@@ -1,10 +1,10 @@
-📊 Sales Performance & Analytics Dashboard (Power BI)
+# 📊 Sales Performance & Analytics Dashboard (Power BI)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This interactive Power BI dashboard provides a comprehensive analysis of sales performance, cost distribution, and product trends across different companies. Designed with a clean, cohesive purple theme, it enables stakeholders to quickly track key performance indicators (KPIs), identify top-performing products, and monitor monthly revenue growth.
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 <img width="860" height="445" alt="BI Dashboard" src="https://github.com/user-attachments/assets/5bb6977f-8953-4ed8-b2ff-24c6e3d1de95" />
 
@@ -12,7 +12,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 
 (Note: Replace dashboard_preview.png with the actual path to your dashboard screenshot in the repository)
 
-🎯 Key Metrics (KPIs)
+## 🎯 Key Metrics (KPIs)
 
 At a glance, the top KPI cards highlight critical business figures:
 
@@ -24,7 +24,7 @@ Total Transactions / Orders: 700 (Update label in Power BI if needed)
 
 Total Products / Categories: 12 (Update label in Power BI if needed)
 
-📈 Dashboard Visuals & Insights
+## 📈 Dashboard Visuals & Insights
 
 Net Sales By Company (Donut Chart):
 
@@ -62,8 +62,8 @@ Colorado Boomerangs: $85.2K Sales vs. $43.6K Cost
 
 Tri Fly: $59.2K Sales vs. $30.3K Cost
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Power BI Desktop: Data modeling, DAX calculations, and interactive visual design.
 
-Data Source: Sales & Product Dataset (Excel / CSV / SQL).
+### Data Source: Sales & Product Dataset (Excel / CSV / SQL).
